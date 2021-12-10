@@ -28,10 +28,10 @@
         <div class="navbar-end">
           <div class="navbar-item">
             <div class="buttons">
-              <a class="button is-black">
+              <a to="/register" class="button is-black">
                 <strong>Registar-se</strong>
               </a>
-              <a class="button is-outlined"> Efectuar Login </a>
+              <a to="/login" class="button is-outlined"> Efectuar Login </a>
             </div>
           </div>
         </div>

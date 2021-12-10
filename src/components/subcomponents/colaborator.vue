@@ -4,8 +4,7 @@
       <figure class="image is-4by3">
         <img
           src="../../assets/imgs/user-profile.png"
-          alt="User Profile image"
-        />
+          alt="User Profile image"/>
       </figure>
     </div>
     <div class="card-content">
@@ -17,9 +16,9 @@
       </div>
 
       <div class="content">
-      Hora Marcada:
+        Hora Marcada:
         <br />
-        <time datetime="2016-1-1">11:09 PM <span>às</span> 1 Jan 2016</time>
+        <time datetime="2016-1-1">12:45 <span>às</span> 13:20</time>
       </div>
     </div>
   </div>
@@ -36,8 +35,8 @@ export default {
 </script>
 
 <style scoped>
-.card-image img{
-  width: auto;
-  margin: 4% auto;
-}
+  .card-image img{
+    width: auto;
+    margin: 4% auto;
+  }
 </style>
